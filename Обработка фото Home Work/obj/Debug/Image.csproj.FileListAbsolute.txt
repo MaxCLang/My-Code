@@ -1,0 +1,9 @@
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\bin\Debug\eurobot.bmp
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\bin\Debug\Recognizer.exe.config
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\bin\Debug\Recognizer.exe
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\bin\Debug\Recognizer.pdb
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\obj\Debug\Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\obj\Debug\Recognizer.exe
+C:\Users\Acer\Desktop\Из темы Алгоритмы Home Work\obj\Debug\Recognizer.pdb
