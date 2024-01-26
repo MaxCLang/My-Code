@@ -1,0 +1,33 @@
+C:\Users\Acer\Desktop\Manipulator Home Work\bin\Debug\Manipulator.exe.config
+C:\Users\Acer\Desktop\Manipulator Home Work\bin\Debug\Manipulator.exe
+C:\Users\Acer\Desktop\Manipulator Home Work\bin\Debug\Manipulator.pdb
+C:\Users\Acer\Desktop\Manipulator Home Work\bin\Debug\nunit.framework.dll
+C:\Users\Acer\Desktop\Manipulator Home Work\obj\Debug\manipulator.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Manipulator Home Work\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Acer\Desktop\Manipulator Home Work\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Manipulator Home Work\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Manipulator Home Work\obj\Debug\manipulator.csproj.CopyComplete
+C:\Users\Acer\Desktop\Manipulator Home Work\obj\Debug\Manipulator.exe
+C:\Users\Acer\Desktop\Manipulator Home Work\obj\Debug\Manipulator.pdb
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\Manipulator.exe.config
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\Manipulator.exe
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\Manipulator.pdb
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\nunit.framework.dll
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.CopyComplete
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\Manipulator.exe
+C:\Users\Acer\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\Manipulator.pdb
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\Manipulator.exe.config
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\Manipulator.exe
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\Manipulator.pdb
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\bin\Debug\nunit.framework.dll
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\manipulator.csproj.CopyComplete
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\Manipulator.exe
+C:\Users\Максим\Desktop\Returning to C#\U Learn Me HomeWork\Manipulator Home Work\obj\Debug\Manipulator.pdb

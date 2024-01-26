@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Максим\\Desktop\\Returning to C#\\U Learn Me HomeWork\\Manipulator Home Work\\manipulator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Максим\\Desktop\\Returning to C#\\U Learn Me HomeWork\\Manipulator Home Work\\manipulator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Максим\\Desktop\\Returning to C#\\U Learn Me HomeWork\\Manipulator Home Work\\manipulator.csproj",
+        "projectName": "Manipulator",
+        "projectPath": "C:\\Users\\Максим\\Desktop\\Returning to C#\\U Learn Me HomeWork\\Manipulator Home Work\\manipulator.csproj",
+        "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Максим\\Desktop\\Returning to C#\\U Learn Me HomeWork\\Manipulator Home Work\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
